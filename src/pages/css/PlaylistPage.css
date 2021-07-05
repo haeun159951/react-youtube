@@ -1,0 +1,18 @@
+.Playlist {
+  text-align: center;
+}
+.Playlist h1 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.sub-error {
+  margin: 20px;
+  flex-direction: column;
+  justify-content: center;
+  margin: auto;
+  width: 600px;
+  height: 100px;
+  background-color: gainsboro;
+  border: 1px solid black;
+}
